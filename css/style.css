@@ -32,7 +32,7 @@
 	}
 
 /*------------------------------------*\
- 	Highlight Seclections 
+ 	Highlight Seclections
 \*------------------------------------*/
 
 	::selection {
@@ -57,7 +57,7 @@ body, html {
   height: 100%;
   font: 400 16px/26px 'Source Sans Pro', sans-serif;;
   color: #fff; /* Font Color Color Here */
-  background: #f97e6e; 
+  background: #f97e6e;
 }
 
 body {
@@ -83,7 +83,7 @@ a:hover, a:visited:hover {
     color: #006699; }
 
 img.avatar {
-	width: 150px;
+	width: 300px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -126,7 +126,7 @@ img.avatar {
 
 #header {
   margin: 0 0 24px;
-  position: relative; 
+  position: relative;
 }
 
 
@@ -140,7 +140,7 @@ img.avatar {
 line-height: 30px;
 	text-align: center;
 	margin-bottom: 24px;
-  display: block; 
+  display: block;
 }
 
 #intro a {
@@ -159,7 +159,7 @@ line-height: 30px;
   color: white;
 	text-align: center;
 	margin-left: 8px;
-	margin-right: 8px; 
+	margin-right: 8px;
 	font-size: 30px;
 	opacity: 0.3;
 	font-family: 'icomoon';
@@ -170,7 +170,7 @@ line-height: 30px;
 }
 
 #networks a:hover {
-    color: #fff; 
+    color: #fff;
 		opacity: .9;
 }
 
