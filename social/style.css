@@ -2,9 +2,9 @@
 	font-family: "social-icons";
   src: url("social-icon-font.eot");
   src: url("social-icon-font.eot?#iefix") format("embedded-opentype"),
-       url("social-icon-font.woff") format("woff"),
-       url("social-icon-font.ttf") format("truetype"),
-       url("social-icon-font.svg#social-icons") format("svg");
+      url("social-icon-font.svg#social-icons") format("svg")
+			url("social-icon-font.woff") format("woff"),
+       url("social-icon-font.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
