@@ -25,7 +25,7 @@ Instead of a list of all class selectors,
 you can use the generic selector below, but it's slower:
 [class*="icon-"]:before {
 */
-.icon-twitter:before, .icon-dribbble:before, .icon-tumblr:before, .icon-pinterest:before, .icon-instagram:before, .icon-paperplane:before, .icon-dots:before, .icon-bookmark:before, .icon-bookmarks:before, .icon-box:before, .icon-clipboard:before, .icon-pause:before, .icon-history:before, .icon-drawer:before, .icon-paperclip:before, .icon-feather:before, .icon-pencil:before, .icon-compass:before, .icon-map:before, .icon-location:before, .icon-export:before, .icon-megaphone:before, .icon-tag:before, .icon-tools:before, .icon-cog:before, .icon-bell:before, .icon-link:before, .icon-flag:before, .icon-leaf:before, .icon-music:before, .icon-printer:before, .icon-flashlight:before, .icon-popup:before, .icon-search:before, .icon-quote:before, .icon-target:before, .icon-text-2:before, .icon-document:before, .icon-folder:before, .icon-archive:before, .icon-rss:before, .icon-comment:before, .icon-chat:before, .icon-phone:before, .icon-vcard:before, .icon-camera:before, .icon-cart:before, .icon-mail:before, .icon-paperplane:before, .icon-directions:before, .icon-location-2:before, .icon-infinity:before, .icon-light-bulb:before, .icon-credit-card:before, .icon-skype:before, .icon-mouse:before, .icon-mobile:before, .icon-users:before, .icon-user-add:before, .icon-user:before {
+.icon-twitter:before, .icon-dribbble:before, .icon-tumblr:before, .icon-pinterest:before, .icon-instagram:before, .icon-paperplane:before,
 	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
